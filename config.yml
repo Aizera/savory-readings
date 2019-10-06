@@ -7,7 +7,7 @@ canonicalurl: true
 theme: hyde
 date:
   format: j F Y
-  timezone: 'San Francisco '
+  timezone: America/Los_Angeles
 pagination:
   max: "5"
   path: page
