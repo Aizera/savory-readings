@@ -2,8 +2,6 @@
 
 > A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
 
-![Cecil preview](static/images/cecil-preview.png)
-
 ## There is a demo?
 
 [demo.cecil.app](https://demo.cecil.app/)
