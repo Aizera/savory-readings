@@ -7,6 +7,8 @@ tags:
 - reading
 
 ---
+(pc: labyrinthos.co)
+
 Left: Subject, Right: Modifier
 
 \~Challenge of Suffering
