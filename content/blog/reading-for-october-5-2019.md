@@ -1,5 +1,5 @@
 ---
-date: 2019-10-04T18:17:15-07:00
+date: 2019-10-05T18:17:15-07:00
 title: Reading for October 5 2019
 image: "/images/20191005_184907.jpg"
 tags:
