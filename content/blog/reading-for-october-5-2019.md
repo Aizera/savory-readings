@@ -1,5 +1,5 @@
 ---
-date: 2019-10-06T01:17:15Z
+date: 2019-10-05T18:17:15-07:00
 title: Reading for October 5 2019
 image: "/images/Screenshot_20191005-181757_Seventh Sphere Lenormand.jpg"
 tags:
