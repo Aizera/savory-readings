@@ -1,6 +1,6 @@
 ---
 date: 2019-10-07T19:15:38-07:00
-title: Stork (Q♡) and Tree (7♡)
+title: Stork (Q♡) | Tree (7♡)
 image: "/images/Screenshot_20191007-004113_Seventh Sphere Lenormand.jpg"
 tags:
 - lenormand
