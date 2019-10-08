@@ -1,10 +1,11 @@
 ---
-date: 2019-10-05T18:17:15-07:00
-title: Mountain (8♧) & Coffin (9♢)
+date: 2019-10-06T01:17:15.000+00:00
+title: Mountain (8♧) | Coffin (9♢)
 image: "/images/20191005_184907.jpg"
 tags:
 - lenormand
 - reading
+draft: false
 
 ---
 (pc: labyrinthos.co)
