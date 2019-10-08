@@ -4,7 +4,7 @@ title: Mountain (8♧) | Coffin (9♢)
 image: "/images/20191005_184907.jpg"
 tags:
 - lenormand
-- reading
+- daily reading
 draft: false
 
 ---
