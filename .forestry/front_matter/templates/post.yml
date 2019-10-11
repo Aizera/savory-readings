@@ -3,11 +3,21 @@ label: Post
 hide_body: false
 display_field: title
 fields:
-- name: common
-  type: include
-  config: {}
-  template: common
-  label: Common
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - name: image
   type: file
   config:
