@@ -3,11 +3,20 @@ label: Page
 hide_body: false
 display_field: title
 fields:
-- name: common
-  type: include
-  config: {}
-  template: common
-  label: Common
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: select
   name: menu
   config:
