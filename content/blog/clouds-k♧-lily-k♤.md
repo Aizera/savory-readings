@@ -1,6 +1,6 @@
 ---
 date: 2019-10-13T22:58:37-07:00
-title: " Clouds (K♧) / Lily (K♤)"
+title: Clouds (K♧) / Lily (K♤)
 image: ''
 tags:
 - lenormand
