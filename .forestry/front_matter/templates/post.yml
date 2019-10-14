@@ -30,6 +30,7 @@ fields:
   type: boolean
   label: Draft
 pages:
+- content/blog/3-card-reading-mountain-dog-book.md
 - content/blog/clouds-k♧-lily-k♤.md
 - content/blog/fish-k♢-child-j♤.md
 - content/blog/stork-q♡-and-tree-7♡.md
