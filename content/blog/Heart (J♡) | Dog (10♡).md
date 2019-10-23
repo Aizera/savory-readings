@@ -1,8 +1,10 @@
 ---
 date: 2019-10-23T15:07:59-07:00
-title: ''
+title: Heart (J♡) | Dog (10♡)
 image: ''
-tags: []
+tags:
+- lenormand
+- daily reading
 draft: false
 
 ---
