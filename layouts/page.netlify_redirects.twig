@@ -1,3 +1,10 @@
 {% for page in site.pages if page.redirect is defined %}
+
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect default Netlify subdomain to primary domain
+
+https://savory-readings.netlify.com/* https://savory.win/:splat 301!
+
 {{ url(page, {'canonical': false}) }}    {{ url(page.redirect, {'canonical': false}) }}    301
 {% endfor %}
