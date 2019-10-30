@@ -5,9 +5,9 @@ image: ''
 tags:
 - lenormand
 - daily reading
-draft: true
+draft: false
 
 ---
 ![](/images/20191029_084902.jpg)
 
-Because I fell asleep early last night, I woke up on time to witness the sunrise.
+Because I fell asleep early last night, I woke up on time to witness the steady process of sunrise. Everything is quiet, except for the subtle whirring sounds from my small appliances. I await a visiting, perhaps from a friend or a stranger. They carry a message that I haven't expected to look forward to. 
