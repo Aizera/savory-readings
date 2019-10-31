@@ -1,3 +1,8 @@
+# Savory Readings
+
+A Lenormand Blog
+https://savory.win
+
 # Starter blog
 
 > A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
