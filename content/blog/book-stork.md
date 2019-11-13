@@ -5,7 +5,7 @@ image: ''
 tags:
 - lenormand
 - daily reading
-draft: true
+draft: false
 
 ---
 No new post in a while, being in a slump lately. Time has been going by quickly whereas I constantly feel lethargic, especially on days without caffeine. I feel the need to change up the way I approach my courseload, because my previous ways have started to waver.
