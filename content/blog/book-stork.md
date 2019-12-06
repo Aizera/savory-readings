@@ -8,6 +8,6 @@ tags:
 draft: false
 
 ---
-![](/images/Screenshot_20191205-232252_Seventh Sphere Lenormand.jpg)
+![](/images/bstk.jpg)![](/images/Screenshot_20191205-232252_Seventh Sphere Lenormand.jpg)
 
 No new post in a while, being in a slump lately. Time has been going by quickly whereas I constantly feel lethargic, especially on days without caffeine. I feel the need to change up the way I approach my courseload, because my previous ways have started to waver.
