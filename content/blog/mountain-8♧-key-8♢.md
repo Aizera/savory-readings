@@ -5,7 +5,7 @@ image: ''
 tags:
 - lenormand
 - daily reading
-draft: true
+draft: false
 
 ---
 ![](/images/20200329_123916.jpg)
