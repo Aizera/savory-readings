@@ -1,6 +1,6 @@
 ---
 date: 2019-11-12T21:28:18-08:00
-title: Book | Stork
+title: Book (10♢) | Stork (Q♡)
 image: ''
 tags:
 - lenormand
