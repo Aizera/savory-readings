@@ -1,8 +1,10 @@
 ---
 date: 2019-12-05T23:17:43-08:00
-title: '3 card reading: Rider | Moon | Bouquet '
+title: '3 card reading: Rider (9♡) | Moon (8♡) | Bouquet (Q♤)'
 image: ''
-tags: []
+tags:
+- lenormand
+- 3 card reading
 draft: false
 
 ---
