@@ -1,6 +1,6 @@
 ---
-date: 2019-10-14T09:40:31-07:00
-title: '3 Card Reading: Mountain | Dog | Book'
+date: 2019-10-14T16:40:31.000+00:00
+title: '3 Card Reading: Mountain (8♧) | Dog (10♡) | Book (10♢)'
 image: ''
 tags:
 - lenormand
@@ -8,7 +8,6 @@ tags:
 draft: false
 
 ---
-  
 ![](/images/20191014_093907.jpg)
 
 Today, I woke up feeling pretty good, except for anything but studying. I decided to ask a more specific question. A 3 card reading is meant to formulate a more streamlined insight to the situation at hand.
