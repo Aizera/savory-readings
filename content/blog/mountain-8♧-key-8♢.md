@@ -1,5 +1,5 @@
 ---
-date: 2020-03-29T12:42:07-07:00
+date: 2020-03-29T19:42:07.000+00:00
 title: 'Covid Update: Mountain (8♧) | Key (8♢)'
 image: ''
 tags:
@@ -14,7 +14,9 @@ As the Covid-19 pandemic looms right outside our doorsteps, most of the world's 
 
 The question that I've asked about today is: what can I do while staying home?
 
-The mountain card implies some sort of challenge, which is quite a suitable card whilst being in a global crisis just as this; whereas the key tells you that the kind of challenge will be one of revelation, something that we're able to unlock or achieve. The greatest hurdle we have while staying home is to live each day with mindfulness and meaning. It's quite easy to lose ourselves in solitude and let the hours pass by. 
+<!--more-->
+
+The mountain card implies some sort of challenge, which is quite a suitable card whilst being in a global crisis just as this; whereas the key tells you that the kind of challenge will be one of revelation, something that we're able to unlock or achieve. The greatest hurdle we have while staying home is to live each day with mindfulness and meaning. It's quite easy to lose ourselves in solitude and let the hours pass by.
 
 The challenge that I'll be taking on these weeks is to double the amount of time I spend to read, and learn a new language as a hobby. I've been reading a new book called the "The 4 Season Solution" by Dallas Hartwig, as well as slowly wading around some Korean.
 
